@@ -2,25 +2,24 @@
     "playlist":[
         {
         "playlistid":"PLogEFxdXH23tGGYQgb_7IDQDs8tLd1vjc",
-	"playlist_title":"MATHS",
-        "pl_description":"Rajiv Khanna",
-        "image_url":"https://github.com/pluspointofficial/pluspointapp/raw/master/maths.jpg"
+		"playlist_title":"Maths",
+        "pl_description":"SSC CGL Preparation",
+        "image_url":"https://github.com/shishirpriyadarshi/youtubeplaylist/raw/master/aptitute.jpg"
+
         },
-	{
-        "playlistid":"PLogEFxdXH23tGGYQgb_7IDQDs8tLd1vjc",
-	"playlist_title":"BIOLOGY",
-        "pl_description":"Rajiv Khanna",
-        "image_url":"https://github.com/pluspointofficial/pluspointapp/raw/master/maths.jpg"
-        }
-    ]
-}
-{
-    "playlist":[
         {
-        "playlistid":"PLogEFxdXH23tGGYQgb_7IDQDs8tLd1vjc",
-	"playlist_title":"BIOLOGY",
-        "pl_description":"Rajiv Khanna",
-        "image_url":"https://github.com/pluspointofficial/pluspointapp/raw/master/maths.jpg"
-        }
+       "playlistid":"PLogEFxdXH23tGGYQgb_7IDQDs8tLd1vjc",
+	   "playlist_title":"Aptitude",
+       "pl_description":"asdffdsffasdf",
+       "image_url":"https://github.com/shishirpriyadarshi/youtubeplaylist/raw/master/aptitute.jpg"
+
+       },
+       {
+       "playlistid":"PLogEFxdXH23tGGYQgb_7IDQDs8tLd1vjc",
+	   "playlist_title":"Great",
+       "pl_description":"asdffdsffasdf",
+       "image_url":"https://github.com/shishirpriyadarshi/youtubeplaylist/raw/master/aptitute.jpg"
+
+       }
     ]
 }
